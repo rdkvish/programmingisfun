@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<client>
+	<property>
+		<id>yahoo</id>
+		<key>the audience</key>
+		<skey>secret</skey>
+	</property>
+</client>
